@@ -52,6 +52,12 @@
   padding: 2rem;
 }
 
+.homeNameInput {
+  background-color: #656565;
+  border: none;
+  width: inherit;
+}
+
 .home__score,
 .away__score {
   font-family: "Ozone";
@@ -71,6 +77,7 @@
   background-color: var(--black);
   border: 2px solid white;
   border-radius: 6px;
+
 }
 
 .bottomRow {
@@ -120,3 +127,4 @@
   margin: 1rem;
   border-radius: 4px;
 }
+
